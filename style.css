@@ -1,0 +1,35 @@
+.alert.alert-warning.alert-dismissible.fade.show {
+  text-align: center;
+  margin-bottom: 0px;
+  background-color: rgb(226, 226, 13);
+  border: black;
+}
+
+.Contact {
+  color: rgb(190, 190, 49);
+  background-color: black;
+  border: black;
+  padding: 16px;
+}
+.SocialMedia {
+  padding-left: 5px;
+}
+
+.Middle {
+  background-image: url(Poor_children.jpg);
+}
+
+.darkyellow {
+  color: yellow;
+}
+
+.yellow {
+  color: rgb(190, 190, 49);
+}
+#footer {
+  background-color: black;
+}
+.Why {
+  text-align: center;
+  color: yellow;
+}
